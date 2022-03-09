@@ -1,2 +1,5 @@
 im.db
 data.sqlite
+
+#Ignore Jupytere notebook checkpoints folder
+*ipynb_checkpoints/
