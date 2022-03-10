@@ -9,10 +9,9 @@ Authors:
  
 ## Overview
 This project analyzes current box office and movie trends to make recommendations to Microsoft Corporation. Namely:
-
-    - Why should Microsoft get into the movie making space?
-    - What movie genres are currently performing well and should be focused on? Both with the regular movie going audience as well as critics.
-    - What can Microsoft bring to the table that other companies cannot?
+-   Why should Microsoft get into the movie making space?
+- What movie genres are currently performing well and should be focused on? Both with the regular movie going audience as well as critics.
+- What can Microsoft bring to the table that other companies cannot?
  
 The first two questions can generally be answered by looking at different movie trends in the last few years. The latter would require delving into Microsoft's unique position in the space and leveraging their list of growing IPs
  
@@ -24,7 +23,7 @@ To generate revenue based trends and data we used data from *www.the-numbers.com
  
 This report also utilizes *www.imdb.com* and *rottentomatoes.com*. Both websites are run off of user interaction and user generated content regarding different movies. The former being an indicator of popularity of various titles using a review and rating system, and the latter being a review aggregator as posted by critics. We shall employ these sites to see what genres are popular by both regular viewers and critics.
  
-Webscraping was used to get a list of Microsoft acquisitions so far. Microsoft has been on an acquisition spree in the last few years especially in the video games sector. This makes Microsoft uniquely positioned to leverage IPs that they hold to make original content or maybe even licensing.
+Microsoft has acquired a few new companies in the last few years especially in the video games sector. This makes Microsoft uniquely positioned to leverage IPs that they hold to make original content or maybe even licensing. Webscraping was used to gather some of this data. 
 In conjunction with this we shall cross reference a sales dataset to see what video game IPs Microsoft owns that are popular and make direct video game adaptation recommendations.
  
 ## Tools
