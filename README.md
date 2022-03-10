@@ -99,11 +99,17 @@ Looking at the data gathered some more precise recommendations can be made:
  
 ### Next Steps
 -Explore other Microsoft-owned properties for further film adaptations
-Citations:
-https://stackoverflow.com/questions/17972938/check-if-a-string-in-a-pandas-dataframe-column-is-in-a-list-of-strings
+
+     
+
+## Citations:
+
+
  
 [List of mergers and acquisitions by Microsoft](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft)
-[Xbox Game Studies](https://en.wikipedia.org/wiki/Xbox_Game_Studios)
+
+[Xbox Game Studios](https://en.wikipedia.org/wiki/Xbox_Game_Studios)
+
 [Video game sales (Kaggle)](https://www.kaggle.com/coffeepot/videogame-sales/data)
  
-
+[Check if a string in a series is in a list of strings](https://stackoverflow.com/questions/17972938/check-if-a-string-in-a-pandas-dataframe-column-is-in-a-list-of-strings)
