@@ -49,7 +49,9 @@ Looking at data from www.rotten-tomatoes.com and grouping by ‘genre’ we can 
 
 ![img](./images/PopularGenres_Critics.jpg)
 
-We also observed that runtime overall has no strong correlation on movie reception
+Documentary, and Art House and International tend to curry favor with critics, and Drama is a strong third. The lattter lends itself easily to a strategy of adapting current Microsoft IPs.
+
+We also observed that runtime overall has no strong correlation on movie reception.
  
  
 
@@ -61,7 +63,7 @@ Ordering the IMDb data by number of user ratings, subsetting the 500 films with 
 
 ### As related to videogame IPs
 
-Using our video game sales dataset and grouping by titles that Microsoft now owns we can see a list of potential candidates that can be adapted on to the silver screen. Here are the top 20 selling game titles globally as of 2016
+Using our video game sales dataset and grouping by titles that Microsoft now owns we can see a list of potential candidates that can be adapted on to the silver screen. Here are some of the popular IPs as of 2016 that now Microsoft owns. Call of Duty (CoD) as an IP really sticks with its various iterations selling about 180m copies across multiple platforms. But besides CoD Microsoft has plenty of options with Gears of War, Elder Scrolls, Fallout, and Halo.
 
 ![img](./images/Microsoft_Gaming_Global_Sales.jpg)
 
@@ -75,9 +77,9 @@ Looking at the data gathered some more precise recommendations can be made:
 
 
 ## Conclusions
--   Entering movies/video entertainment is profitable, and a massive budget is not necessary for box office success
+-   Entering movies/video entertainment is profitable, and for the best chance at success Microsoft should target the (American) summer or winter holiday timeframe
 -   Action/Adventure/Drama movies are consistently popular across 2010-2019, the latter especially with critics. Sci-Fi movies on the rise 2015-2019
--   Acquisition of Activision Blizzard opens the door for unique video game adaptations, e.g. Call of Duty and other properties like (Bethesda’s) Elder Scrolls, Fallout, etc.
+-   Acquisition of Activision Blizzard and other developer studios opens the door for unique video game adaptations, e.g. Call of Duty and other properties like Elder Scrolls, Fallout, etc.
  
 ## Repository Structure
 ```
@@ -98,7 +100,9 @@ Looking at the data gathered some more precise recommendations can be made:
 ```
  
 ### Next Steps
--Explore other Microsoft-owned properties for further film adaptations
+- Explore best writers/directors to helm such projects
+- Further dive into Microsoft's catalog of IPs
+- Explore other Microsoft-owned properties for further film adaptations
 
      
 
