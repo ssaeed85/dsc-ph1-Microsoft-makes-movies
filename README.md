@@ -1,3 +1,4 @@
+![img](./images/dsc-ph1-header.png)
 # Microsoft Goes to the Movies
 Data driven recommendations for Microsoft's new movie making venture
  
